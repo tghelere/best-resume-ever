@@ -20,7 +20,7 @@
     "npm-font-open-sans-condensed": "^1.0.3",
     "raleway-webfont": "^3.0.1",
     "roboto-fontface": "^0.10.0",
-    "source-sans-pro": "^2.0.10",
+    "source-sans-pro": "^3.6.0",
     "vue": "^2.4.2",
     "vue-router": "^2.7.0"
   },
